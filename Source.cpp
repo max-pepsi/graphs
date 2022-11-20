@@ -15,7 +15,7 @@ using namespace std;
 //2) сколько людей будет оповещено за K дней.
 
 int n_people = 13;
-int k = 1;
+int k = 2;
 
 
 set <string> find_sources(set <pair <string, string>> arcs) {
